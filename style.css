@@ -1,1 +1,16 @@
-
+body{
+    background-color: rgb(144, 226, 22);
+}
+h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border-style: outset;
+    border-radius: 30px;
+    border-color: aliceblue;
+}
+p{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
