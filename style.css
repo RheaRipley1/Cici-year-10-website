@@ -9,6 +9,7 @@ img{
     border-style: outset;
     border-radius: 30px;
     border-color: aliceblue;
+    width: 30000px;
 }
 p{
     color: black;
